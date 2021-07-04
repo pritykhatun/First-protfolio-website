@@ -6,7 +6,7 @@ body{
 .color{
     color:orange;
 }
-.container{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -30,10 +30,24 @@ body{
     background-repeat: no-repeat;
 
 }
-.bottom-banner{
+
+.dream-big{
     background-image: url(dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-    padding-right: 70px;
-
 }
+.experience-item{
+    width: 35%;
+    border-radius: 10px;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-right: 25px;
+    box-shadow: 10px 10px 30px gray;
+}
+.experience-area{
+    background-image: url(exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+
