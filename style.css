@@ -8,6 +8,7 @@ body{
 }
 section{
     display: flex;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 45%;
@@ -27,5 +28,12 @@ section{
 .top-banner{
     background-image: url(top-banner.png);
     background-repeat: no-repeat;
+
+}
+.bottom-banner{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    padding-right: 70px;
 
 }
