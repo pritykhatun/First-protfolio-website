@@ -6,7 +6,7 @@ body{
 .color{
     color:orange;
 }
-section{
+.container{
     display: flex;
     margin-bottom: 100px;
 }
