@@ -63,5 +63,9 @@ body{
     border-left: 7px solid;
     padding-left: 10px; 
 }
+ 
+footer p {
+text-align: center;
+}
 
 
